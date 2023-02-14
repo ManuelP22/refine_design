@@ -105,6 +105,18 @@ function App() {
               create: MuiInferencer,
               canDelete: true,
             },
+            {
+              name: "ventas",
+              list: MuiInferencer,
+            },
+            {
+              name: "producto",
+              list: MuiInferencer,
+            },
+            {
+              name: "F",
+              list: MuiInferencer,
+            },
           ]}
           Title={Title}
           Sider={Sider}
